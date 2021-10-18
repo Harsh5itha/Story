@@ -1,0 +1,2 @@
+This is Chapter 3:
+Git commit 3
